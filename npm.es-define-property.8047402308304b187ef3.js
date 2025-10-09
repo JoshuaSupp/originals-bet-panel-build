@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoriginals_panel=self.webpackChunkoriginals_panel||[]).push([[190],{655:(e,a,r)=>{var s=r(453)("%Object.defineProperty%",!0)||!1;if(s)try{s({},"a",{value:1})}catch(e){s=!1}e.exports=s}}]);

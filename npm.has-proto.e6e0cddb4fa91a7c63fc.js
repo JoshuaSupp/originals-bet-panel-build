@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoriginals_panel=self.webpackChunkoriginals_panel||[]).push([[621],{24:o=>{var n={__proto__:null,foo:{}},e=Object;o.exports=function(){return{__proto__:n}.foo===n.foo&&!(n instanceof e)}}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkoriginals_panel=self.webpackChunkoriginals_panel||[]).push([[378],{6341:n=>{function e(n){return n}n.exports=function(n,l,r){l=l||e,r=r||n;for(var a=0,i=n.length;a<i;a+=1)if(l.call(r,n[a],a))return n[a]}}}]);
