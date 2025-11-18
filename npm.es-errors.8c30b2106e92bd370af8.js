@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoriginals_panel=self.webpackChunkoriginals_panel||[]).push([[908],{1237:r=>{r.exports=EvalError},9383:r=>{r.exports=Error},9290:r=>{r.exports=RangeError},9538:r=>{r.exports=ReferenceError},8068:r=>{r.exports=SyntaxError},9675:r=>{r.exports=TypeError},5345:r=>{r.exports=URIError}}]);
